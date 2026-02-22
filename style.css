@@ -23,6 +23,15 @@ h1{
     border-radius: 50%;
 }
 
+.line{
+    width: 4px;
+    height: 10px;
+    background-color: #F00;
+    position: absolute;
+    left: 50%;
+    transform-origin: center 125px;
+}
+
 .pointer{
     position: absolute;
     transform-origin: bottom;
